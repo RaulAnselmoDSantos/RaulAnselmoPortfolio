@@ -59,7 +59,7 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas no IFSP e possuo certif
 
 - [📄 Baixe meu currículo (PDF) - PT](assets/curriculos/RESUME-PT.pdf)  
 - [📄 Baixe meu currículo (PDF) - EN](assets/curriculos/RESUME-EN.pdf)  
-- [🔗 Acessar projetos publicados](https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/projetos)
+- [🔗 Acessar projetos publicados](https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/pt/projetos)
 
 ---
 

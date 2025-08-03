@@ -47,7 +47,7 @@ I work with technologies like Node.js, Java, PostgreSQL, Docker, and Linux. I ho
 
 - [📄 Baixe meu currículo (PDF) - PT](assets/curriculos/RESUME-PT.pdf)  
 - [📄 Baixe meu currículo (PDF) - EN](assets/curriculos/RESUME-EN.pdf)
-- [🔗 View published projects](https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/projects)
+- [🔗 View published projects](https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/en/projects)
 
 ---
 
