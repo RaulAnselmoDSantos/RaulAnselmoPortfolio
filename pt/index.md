@@ -47,18 +47,18 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas no IFSP e possuo certif
   Backend completo com autenticação JWT, integração com PostgreSQL via Prisma ORM.  
   [Ver publicação no LinkedIn](https://www.linkedin.com/posts/raul-anselmo_nestjs-typescript-prismaorm-activity-7279853019762954240-xbKx)
 
-- 🤖 [Bot de Atendimento Automatizado com N8N + WhatsApp](https://github.com/seunome/n8n-bot-atendimento)  
+- 🤖 Bot de Atendimento Automatizado com N8N + WhatsApp
     Projeto de automação para atendimento a clientes utilizando N8N e integração com canais de mensagem.
 
-- 🎰 [Sistema de Análise de Resultados de Loteria](https://github.com/seunome/lotomania-analyzer)  
+- 🎰 Sistema de Análise de Resultados de Loteria
     Aplicativo Java + SQLite que organiza, calcula e compara jogos de LotoMania.
 
 ---
 
 ## 📄 Currículo
 
-- [📄 Baixe meu currículo (PDF) - PT](assets/curriculos/RESUME-PT.pdf)  
-- [📄 Baixe meu currículo (PDF) - EN](assets/curriculos/RESUME-EN.pdf)  
+- [📄 Baixe meu currículo (PDF) - PT](../assets/curriculos/RESUME-PT.pdf)  
+- [📄 Baixe meu currículo (PDF) - EN](../assets/curriculos/RESUME-EN.pdf)  
 - [🔗 Acessar projetos publicados](https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/pt/projetos)
 
 ---

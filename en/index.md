@@ -41,12 +41,18 @@ I work with technologies like Node.js, Java, PostgreSQL, Docker, and Linux. I ho
   Metrics collection for over 100 devices with Linux, MySQL storage, and visual dashboards.  
   [See LinkedIn Post](https://www.linkedin.com/posts/raul-anselmo_monitoring-it-infrastructure-activity-7266947916311769088-vyVb)
 
+- 🤖 Automated Service Bot with N8N + WhatsApp
+    Customer service automation project using N8N and integration with messaging channels.
+
+- 🎰 Lottery Results Analysis System
+    Java + SQLite application that organizes, calculates, and compares LotoMania games.
+
 ---
 
 ## 📄 Resume and Portfolio
 
-- [📄 Baixe meu currículo (PDF) - PT](assets/curriculos/RESUME-PT.pdf)  
-- [📄 Baixe meu currículo (PDF) - EN](assets/curriculos/RESUME-EN.pdf)
+- [📄 Download my resume (PDF) - PT](../assets/curriculos/RESUME-PT.pdf)  
+- [📄 Download my resume (PDF) - EN](../assets/curriculos/RESUME-EN.pdf) 
 - [🔗 View published projects](https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/en/projects)
 
 ---
