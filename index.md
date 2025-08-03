@@ -1,4 +1,6 @@
-<link rel="icon" href="/RaulAnselmoPortfolio/assets/img/favicon.png" type="image/png">
+<head>
+  <link rel="icon" href="/RaulAnselmoPortfolio/assets/img/favicon.png" type="image/png">
+</head>
 
 <nav class="navbar">
   <a href="/RaulAnselmoPortfolio/">Início</a>
