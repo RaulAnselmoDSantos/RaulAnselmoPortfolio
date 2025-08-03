@@ -1,6 +1,7 @@
-<head>
-  <link rel="icon" href="/RaulAnselmoPortfolio/assets/img/favicon.png" type="image/png">
-</head>
+---
+layout: default
+title: Sobre
+---
 
 <nav class="navbar">
   <a href="/RaulAnselmoPortfolio/">Início</a>
