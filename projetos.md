@@ -16,21 +16,43 @@ Aqui estão alguns projetos que desenvolvi, organizados por área:
 
 ## 💻 Infraestrutura & DevOps
 
-### 🔒 Backup Seguro com SSH + Windows Server
-  Criação de sistema de backup automatizado com autenticação SSH, configuração de firewall, e scripts de controle em PowerShell e Java. Solução implementada para clientes da JC Santos & Abreu.
+## 🔐 Serviço de Backup (Windows Server, SSH)
 
-### 📦 Automação de Cadastro de Clientes (Java + PowerShell)
-  Script para agilizar o processo de integração de novos clientes no sistema de backup, incluindo cadastro, configuração e permissões de acesso.
+Desenvolvi e implementei uma solução robusta de backup para clientes, utilizando software terceirizado e autenticação SSH para acesso seguro. A solução incluiu configuração de firewall e mecanismos de detecção e prevenção de ataques, garantindo a segurança dos dados e a integridade do sistema.
 
-### 📊 Monitoramento com Zabbix + Grafana + MySQL
-  Criação de sistema de monitoramento com mais de 100 equipamentos (servidores e estações) integrados ao Zabbix, persistência dos dados com MySQL e visualização em dashboards no Grafana.
+**Tags**: Backup, Segurança, SSH, Windows Server, Firewall, Autenticação, Infraestrutura  
+📍 Utilizado internamente na Informatica F1  
+🔗 [Ver empresa](https://informaticaf1.com.br/suporte-em-informatica-para-empresas/)
+
+---
+
+## ⚙️ Automação para Backup (Java, PowerShell)
+
+Automação eficiente usando Java e scripts PowerShell para agilizar o processo de cadastro, configuração e acesso de novos clientes ao sistema de backup. A solução reduziu tempo de onboarding e minimizou erros manuais.
+
+**Tags**: Automação, Java, PowerShell, Otimização, Scripting  
+📍 Utilizado internamente na Informatica F1  
+🔗 [Ver empresa](https://informaticaf1.com.br/suporte-em-informatica-para-empresas/)
+
+---
+
+## 📊 Monitoramento com Zabbix + Grafana + MySQL
+
+Implementei sistema de monitoramento para mais de 100 equipamentos (servidores e estações). Utilizei Zabbix para coleta, MySQL para armazenamento e Grafana para dashboards visuais e alertas.
+
+**Tags**: Monitoramento, Zabbix, Grafana, MySQL, Linux, Dashboards, Alertas  
+🔗 [Ver publicação](https://www.linkedin.com/posts/raul-anselmo_monitoring-it-infrastructure-activity-7266947916311769088-vyVb)
 
 ---
 
 ## 🧑‍💻 Desenvolvimento Backend
 
-### 🌐 API RESTful com Node.js, Prisma e PostgreSQL
-  Desenvolvimento de uma API pessoal para gerenciamento de dados de clientes, com autenticação JWT, CRUD e integração com banco de dados PostgreSQL via Prisma ORM.
+## 🌐 API RESTful (Node.js, NestJS, Prisma, PostgreSQL)
+
+Desenvolvi uma API RESTful completa para gerenciamento de dados de clientes, com autenticação JWT, banco de dados PostgreSQL e integração com Prisma ORM. Projeto focado em segurança, escalabilidade e organização de dados.
+
+**Tags**: API RESTful, Node.js, NestJS, Prisma, PostgreSQL, JWT, Backend  
+🔗 [Ver publicação](https://www.linkedin.com/posts/raul-anselmo_nestjs-typescript-prismaorm-activity-7279853019762954240-xbKx)
 
 ---
 
@@ -38,10 +60,6 @@ Aqui estão alguns projetos que desenvolvi, organizados por área:
 
 - **Bot de Atendimento via WhatsApp + N8N**  
   Fluxos criados no N8N que recebem mensagens de clientes, extraem dados, preenchem planilhas ou disparam e-mails automaticamente.
-
-### 📁 Scripts de Automação de Tarefas (Linux, PowerShell)
-  Criação de scripts utilizados internamente para agilizar processos como geração de relatórios, backup, manipulação de arquivos e validação de configurações em servidores Windows e Linux.
-
 
 ## 🎰 Projetos Java
 

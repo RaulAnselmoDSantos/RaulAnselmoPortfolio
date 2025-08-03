@@ -24,20 +24,21 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas no IFSP e possuo certif
 
 ## 🚀 Projetos em Destaque
 
-- 🔧 [Monitoramento de Backups com Grafana + SQLite](https://github.com/seunome/projeto-backup-monitoring)  
-    Monitoramento de tarefas de backup em servidores Windows/Linux com visualização via Grafana.
+- 🔐 **Serviço de Backup**  
+  Backup seguro com SSH e firewall, utilizando Windows Server e autenticação personalizada.  
+  *[Interno – Informatica F1]*
 
-- 🔧 **Sistema de Monitoramento (Zabbix + Grafana + MySQL)**  
-    Monitoramento de mais de 100 equipamentos com dashboards personalizados.
+- 📊 **Monitoramento com Zabbix + Grafana**  
+  Coleta de métricas e visualização de +100 equipamentos com Linux, MySQL e dashboards visuais.  
+  [Ver publicação no LinkedIn](https://www.linkedin.com/posts/raul-anselmo_monitoring-it-infrastructure-activity-7266947916311769088-vyVb)
 
-- 🛡️ **Serviço de Backup com SSH e Windows Server**  
-    Infraestrutura de backup segura e automatizada para clientes, com firewall e autenticação.
+- ⚙️ **Automação para Backup**  
+  Scripts em Java e PowerShell para agilizar cadastro e configuração de novos clientes.  
+  *[Interno – Informatica F1]*
 
-- 🤖 **Automação de Backup (Java + PowerShell)**  
-    Script para cadastro e configuração de novos clientes no sistema de backup.
-
-- 🌐 **API RESTful com Node.js, Prisma e PostgreSQL**  
-    Sistema pessoal com autenticação JWT e persistência de dados de clientes.
+- 🌐 **API RESTful com NestJS**  
+  Backend completo com autenticação JWT, integração com PostgreSQL via Prisma ORM.  
+  [Ver publicação no LinkedIn](https://www.linkedin.com/posts/raul-anselmo_nestjs-typescript-prismaorm-activity-7279853019762954240-xbKx)
 
 - 🤖 [Bot de Atendimento Automatizado com N8N + WhatsApp](https://github.com/seunome/n8n-bot-atendimento)  
     Projeto de automação para atendimento a clientes utilizando N8N e integração com canais de mensagem.
@@ -50,6 +51,7 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas no IFSP e possuo certif
 ## 📄 Currículo
 
 - [📄 Baixe meu currículo (PDF)](assets/curriculos/RESUME-PT.pdf)  
+- [🔗 Acessar projetos publicados](https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/projetos)
 
 ---
 

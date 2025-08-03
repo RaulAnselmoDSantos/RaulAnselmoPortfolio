@@ -19,25 +19,39 @@ Sou um profissional versátil com experiência em suporte técnico, desenvolvime
 - Criação de sistemas em Java + SQLite
 - Desenvolvimento BackEnd usando Nest.js
 
-### JC SANTOS & ABREU LTDA — Técnico em Informática (2024 – atual)
-- Suporte técnico (remoto e presencial)
-- Manutenção de servidores, racks, mikrotiks e infraestrutura de rede
-- Desenvolvimento de sistemas sob medida
-- Criação de automações para backup com Java e PowerShell
-- Monitoramento com Zabbix, Grafana e MySQL
+### JC Santos & Abreu LTDA  
+**Técnico em Informática | Mai. 2024 – Atual**
 
-### PUAH Consultoria — Analista de Suporte Técnico (2022 – 2023)
-- Administração de redes, AD, Windows Server e Linux
-- Documentação técnica e scripts para automação
-- Configuração de redes e geração de relatórios
+- Diagnóstico e solução de problemas de hardware, software e redes
+- Suporte técnico remoto e presencial a empresas
+- Instalação e manutenção de servidores, mikrotiks e load-balancers
+- Desenvolvimento de sistemas sob medida com foco em segurança e escalabilidade
+
+**Projetos internos liderados:**
+- Serviço de Backup
+- Automação para Backup
+- Sistema de Monitoramento
+
+### PUAH Consultoria  
+**Analista de Suporte Técnico | Nov. 2022 – 2023**
+
+- Configuração de Active Directory, redes, Windows Server e Linux
+- Criação de scripts de automação para tarefas recorrentes
+- Geração de relatórios e documentação técnica
+- Garantia de estabilidade e segurança da infraestrutura
+
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- IFSP — Tecnologia em Análise e Desenvolvimento de Sistemas (2022–2025)
-- IFSP — Técnico em Administração (2017–2018)
-- Influx Business School — Inglês A1 (2017)
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas (2022 – 2025)**  
+  Instituto Federal de São Paulo — Campus Caraguatatuba
+
+- **Técnico em Administração (2017 – 2018)**  
+  IFSP — Caraguatatuba
+
+- **Inglês A1 — Influx Business School (2017)**
 
 ---
 
@@ -53,7 +67,9 @@ Sou um profissional versátil com experiência em suporte técnico, desenvolvime
 
 ## 📜 Certificações
 
-- AWS Certified Solutions Architect – Associate (2023)
-- AWS Certified Cloud Practitioner (2022)
-- Alura: JavaScript e Node.js
-- Trybe: HTML5 e CSS
+- [AWS Certified Solutions Architect – Associate (2023)](https://www.credly.com/badges/ee4e6b18-56f0-41bf-a982-b6e02a6a4277/linked_in_profile)
+- [AWS Academy Cloud Foundations (2022)](https://www.credly.com/badges/6eb36541-fb44-40d1-a4ac-4261e9f3f262/linked_in_profile)
+- [Alura: Curso de JavaScript e Node.js (2023)](https://cursos.alura.com.br/user/raul-santos9/fullCertificate/5adcee856c133850e84d3db33f07f02d)
+- [Trybe: Curso Introdutório de HTML5 e CSS (2022)](https://smartcerts.co/certificate/wyprlvby)
+
+Veja mais em [meu perfil no LinkedIn](https://www.linkedin.com/in/raul-anselmo/)
