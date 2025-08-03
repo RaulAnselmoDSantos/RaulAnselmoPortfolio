@@ -65,6 +65,8 @@ Desenvolvi uma API RESTful completa para gerenciamento de dados de clientes, com
 
 **Tags**: API RESTful, Node.js, NestJS, Prisma, PostgreSQL, JWT, Backend  
 🔗 [Ver publicação](https://www.linkedin.com/posts/raul-anselmo_nestjs-typescript-prismaorm-activity-7279853019762954240-xbKx)
+🔗 [Ver repositorio do Projeto](github.com/RaulAnselmoDSantos/api-type-6-semestre)
+
 
 ---
 

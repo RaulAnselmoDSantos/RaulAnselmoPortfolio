@@ -46,6 +46,7 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas no IFSP e possuo certif
 - 🌐 **API RESTful com NestJS**  
   Backend completo com autenticação JWT, integração com PostgreSQL via Prisma ORM.  
   [Ver publicação no LinkedIn](https://www.linkedin.com/posts/raul-anselmo_nestjs-typescript-prismaorm-activity-7279853019762954240-xbKx)
+  [Ver repositorio do Projeto](github.com/RaulAnselmoDSantos/api-type-6-semestre)
 
 - 🤖 Bot de Atendimento Automatizado com N8N + WhatsApp
     Projeto de automação para atendimento a clientes utilizando N8N e integração com canais de mensagem.

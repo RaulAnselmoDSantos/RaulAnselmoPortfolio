@@ -40,6 +40,7 @@ I work with technologies like Node.js, Java, PostgreSQL, Docker, and Linux. I ho
 - 📊 **Monitoring with Zabbix + Grafana**  
   Metrics collection for over 100 devices with Linux, MySQL storage, and visual dashboards.  
   [See LinkedIn Post](https://www.linkedin.com/posts/raul-anselmo_monitoring-it-infrastructure-activity-7266947916311769088-vyVb)
+  [See Repository](github.com/RaulAnselmoDSantos/api-type-6-semestre)
 
 - 🤖 Automated Service Bot with N8N + WhatsApp
     Customer service automation project using N8N and integration with messaging channels.
