@@ -44,9 +44,9 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas no IFSP e possuo certif
 
 ## 📫 Contato
 
-- ✉️ Email: raul.santos@email.com
-- 💼 LinkedIn: [linkedin.com/in/raul-santos](https://linkedin.com/in/raul-santos)
-- 💻 GitHub: [github.com/raulsantos](https://github.com/raulsantos)
+- ✉️ Email: [raul.trabalho5511@gmail.com](mailto:raul.trabalho5511@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/raul-anselmo](https://linkedin.com/in/raul-anselmo)
+- 💻 GitHub: [github.com/RaulAnselmoDSantos](https://github.com/RaulAnselmoDSantos)
 
 ---
 
