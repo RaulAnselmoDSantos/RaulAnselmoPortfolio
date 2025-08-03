@@ -9,9 +9,13 @@ title: Contact
   <a href="/RaulAnselmoPortfolio/en/projects">Projects</a>
   <a href="/RaulAnselmoPortfolio/en/contact">Contact</a>
 
-  <span style="float: right; margin-right: 20px;">
-    🌐 <a href="/RaulAnselmoPortfolio/pt/">PT</a> | <a href="/RaulAnselmoPortfolio/en/">EN</a>
-  </span>
+  <div class="lang-switcher">
+    <button title="Selecionar idioma">🌐</button>
+    <div class="lang-menu">
+      <a href="/RaulAnselmoPortfolio/pt/">PT</a>
+      <a href="/RaulAnselmoPortfolio/en/">EN</a>
+    </div>
+  </div>
 </nav>
 
 # 📬 Get in Touch
