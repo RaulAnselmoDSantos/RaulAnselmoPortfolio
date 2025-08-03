@@ -1,3 +1,7 @@
+[Início](index.md) • [Projetos](projetos.md) • [Sobre](sobre.md) • [Contato](contato.md)
+
+---
+
 # 🧠 Meus Projetos
 
 Aqui estão alguns projetos que desenvolvi, organizados por área:

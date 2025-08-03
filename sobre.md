@@ -1,3 +1,7 @@
+[Início](index.md) • [Projetos](projetos.md) • [Sobre](sobre.md) • [Contato](contato.md)
+
+---
+
 # 👨‍💻 Sobre Mim
 
 Sou técnico em informática com mais de 7 anos de experiência em manutenção de equipamentos, redes e suporte. Também atuo como desenvolvedor em projetos pessoais e de automação.

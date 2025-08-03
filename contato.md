@@ -1,3 +1,7 @@
+[Início](index.md) • [Projetos](projetos.md) • [Sobre](sobre.md) • [Contato](contato.md)
+
+---
+
 # 📬 Fale Comigo
 
 Se você quer falar comigo sobre algum projeto, parceria ou dúvida, esses são meus contatos:
