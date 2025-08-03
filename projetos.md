@@ -1,6 +1,10 @@
-[Início](index.md) • [Projetos](projetos.md) • [Sobre](sobre.md) • [Contato](contato.md)
+<nav class="navbar">
+  <a href="index.md">Início</a>
+  <a href="sobre.md">Sobre</a>
+  <a href="projetos.md">Projetos</a>
+  <a href="contato.md">Contato</a>
+</nav>
 
----
 
 # 🧠 Meus Projetos
 
