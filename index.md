@@ -3,6 +3,11 @@
   <a href="/RaulAnselmoPortfolio/sobre">Sobre</a>
   <a href="/RaulAnselmoPortfolio/projetos">Projetos</a>
   <a href="/RaulAnselmoPortfolio/contato">Contato</a>
+  <span style="float: right; margin-right: 20px;">
+    🌐
+    <a href="/RaulAnselmoPortfolio/pt/">PT</a> |
+    <a href="/RaulAnselmoPortfolio/en/">EN</a>
+  </span>
 </nav>
 
 
