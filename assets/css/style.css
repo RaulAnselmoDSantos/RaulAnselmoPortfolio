@@ -104,6 +104,13 @@ form {
     font-family: sans-serif;
   }
 
+  form label {
+  color: #e0e0e0 !important;
+  font-weight: 600;
+  display: block;
+  margin-bottom: 5px;
+  }
+
   label {
     font-weight: bold;
     display: block;
