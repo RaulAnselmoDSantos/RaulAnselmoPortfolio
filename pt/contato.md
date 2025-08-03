@@ -4,11 +4,16 @@ title: Contato
 ---
 
 <nav class="navbar">
-  <a href="/RaulAnselmoPortfolio/">Início</a>
-  <a href="/RaulAnselmoPortfolio/sobre">Sobre</a>
-  <a href="/RaulAnselmoPortfolio/projetos">Projetos</a>
-  <a href="/RaulAnselmoPortfolio/contato">Contato</a>
+  <a href="/RaulAnselmoPortfolio/pt/">Início</a>
+  <a href="/RaulAnselmoPortfolio/pt/sobre">Sobre</a>
+  <a href="/RaulAnselmoPortfolio/pt/projetos">Projetos</a>
+  <a href="/RaulAnselmoPortfolio/pt/contato">Contato</a>
+
+  <span style="float: right; margin-right: 20px;">
+    🌐 <a href="/RaulAnselmoPortfolio/pt/">PT</a> | <a href="/RaulAnselmoPortfolio/en/">EN</a>
+  </span>
 </nav>
+
 
 
 # 📬 Fale Comigo
