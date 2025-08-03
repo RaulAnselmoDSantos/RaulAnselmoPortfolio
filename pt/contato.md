@@ -32,7 +32,7 @@ Se você quer falar comigo sobre algum projeto, parceria ou dúvida, esses são 
 
 <form action="https://formsubmit.co/raul.trabalho5511@gmail.com" method="POST">
 
- <input type="hidden" name="_redirect" value="https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/pt/sucesso.html">
+ <input type="hidden" name="_next" value="https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/pt/sucesso.html">
 
   <label>Nome:</label><br>
   <input type="text" name="name" required><br><br>
