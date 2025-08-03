@@ -7,7 +7,6 @@ title: Bem-vindo
   const lang = navigator.language || navigator.userLanguage;
   const userLang = lang.toLowerCase().startsWith('pt') ? 'pt' : 'en';
 
-  // Evita redirecionar se já estiver em uma subpasta /pt/ ou /en/
   if (!window.location.pathname.includes('/pt/') && !window.location.pathname.includes('/en/')) {
     window.location.href = `/RaulAnselmoPortfolio/${userLang}/`;
   }
