@@ -25,7 +25,7 @@ Atualmente estou estudando tecnologias modernas para automação e orquestraçã
 
 ## 📄 Currículo
 
-- [📄 Baixe meu currículo (PDF)](assets/RESUME-PT.pdf)  
+- [📄 Baixe meu currículo (PDF)](assets/curriculos/RESUME-PT.pdf)  
 
 ---
 
