@@ -1,8 +1,8 @@
 <nav class="navbar">
-  <a href="index.md">Início</a>
-  <a href="sobre.md">Sobre</a>
-  <a href="projetos.md">Projetos</a>
-  <a href="contato.md">Contato</a>
+  <a href="/">Início</a>
+  <a href="/sobre">Sobre</a>
+  <a href="/projetos">Projetos</a>
+  <a href="/contato">Contato</a>
 </nav>
 
 
