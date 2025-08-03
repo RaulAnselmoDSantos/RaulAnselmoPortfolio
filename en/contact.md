@@ -32,7 +32,7 @@ If you'd like to talk to me about a project, partnership, or just have a questio
 
 <form action="https://formsubmit.co/raul.trabalho5511@gmail.com" method="POST">
 
- <input type="hidden" name="_redirect" value="https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/en/thank-you.html">
+ <input type="hidden" name="_next_captcha" value="https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/en/thank-you.html">
 
   <label style="color: white;">Name:</label><br>
   <input type="text" name="name" required><br><br>
