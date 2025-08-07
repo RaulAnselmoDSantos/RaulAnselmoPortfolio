@@ -43,6 +43,7 @@ Efficient automation using Java and PowerShell scripts to streamline client onbo
 **Tags**: Automation, Java, PowerShell, Optimization, Scripting  
 📍 Used internally at Informatica F1  
 🔗 [View company](https://informaticaf1.com.br/suporte-em-informatica-para-empresas/)
+🔗 [Git repository with some scripts](https://github.com/RaulAnselmoDSantos/Scripts)
 
 ---
 

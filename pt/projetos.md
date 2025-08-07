@@ -45,6 +45,7 @@ Automação eficiente usando Java e scripts PowerShell para agilizar o processo 
 **Tags**: Automação, Java, PowerShell, Otimização, Scripting  
 📍 Utilizado internamente na Informatica F1  
 🔗 [Ver empresa](https://informaticaf1.com.br/suporte-em-informatica-para-empresas/)
+🔗 [Repositorio do Git com alguns scripts](https://github.com/RaulAnselmoDSantos/Scripts)
 
 ---
 
