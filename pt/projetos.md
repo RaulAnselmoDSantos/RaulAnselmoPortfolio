@@ -60,6 +60,19 @@ Implementei sistema de monitoramento para mais de 100 equipamentos (servidores e
 
 ## 🧑‍💻 Desenvolvimento Backend
 
+## 🛠️ Arteiros Caraguá — Plataforma Open Source (NestJS, TypeScript, PostgreSQL)
+
+Atuei como desenvolvedor backend no projeto **Arteiros Caraguá**, uma plataforma open source desenvolvida de forma colaborativa com foco em impacto social, criada para valorizar e dar visibilidade aos artesãos da cidade de Caraguatatuba.
+
+Fui responsável pela implementação de funcionalidades essenciais da API, incluindo controle de acesso por roles (Guards), parte do CRUD de usuários, criação de moderadores, solicitação para se tornar artesão, funcionalidades de likes, reviews, seguir artesão, redefinição de senha e listagem administrativa de usuários.
+
+**Tecnologias**: Node.js, NestJS, TypeScript, PostgreSQL  
+**Tags**: Open Source, Backend, API RESTful, Autorização, Impacto Social  
+
+🔗 [Repositório Frontend](https://github.com/artesaos-project/frontend)  
+🔗 [Repositório Backend](https://github.com/artesaos-project/nest-api)  
+🔗 [Repositório DevOps](https://github.com/artesaos-project/devops)
+
 ## 🌐 API RESTful (Node.js, NestJS, Prisma, PostgreSQL)
 
 Desenvolvi uma API RESTful completa para gerenciamento de dados de clientes, com autenticação JWT, banco de dados PostgreSQL e integração com Prisma ORM. Projeto focado em segurança, escalabilidade e organização de dados.
