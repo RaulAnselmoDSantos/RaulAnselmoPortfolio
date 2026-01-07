@@ -67,6 +67,7 @@ I was responsible for implementing core API features, including role-based acces
 **Technologies**: Node.js, NestJS, TypeScript, PostgreSQL  
 **Tags**: Open Source, Backend, RESTful API, Authorization, Social Impact  
 
+🔗 [Paper](https://www.ifspcaraguatatuba.edu.br/noticias/plataforma-arteiros-caragua-e-lancada-durante-o-empreenda-2025)  
 🔗 [Frontend Repository](https://github.com/artesaos-project/frontend)  
 🔗 [Backend Repository](https://github.com/artesaos-project/nest-api)  
 🔗 [DevOps Repository](https://github.com/artesaos-project/devops)

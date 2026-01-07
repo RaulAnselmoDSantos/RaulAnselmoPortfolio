@@ -69,6 +69,7 @@ Fui responsável pela implementação de funcionalidades essenciais da API, incl
 **Tecnologias**: Node.js, NestJS, TypeScript, PostgreSQL  
 **Tags**: Open Source, Backend, API RESTful, Autorização, Impacto Social  
 
+🔗 [Publicação](https://www.ifspcaraguatatuba.edu.br/noticias/plataforma-arteiros-caragua-e-lancada-durante-o-empreenda-2025)  
 🔗 [Repositório Frontend](https://github.com/artesaos-project/frontend)  
 🔗 [Repositório Backend](https://github.com/artesaos-project/nest-api)  
 🔗 [Repositório DevOps](https://github.com/artesaos-project/devops)
